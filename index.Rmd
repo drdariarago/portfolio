@@ -13,3 +13,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+
+Welcome to my personal website, a spot to collect together my research and interests.
+
+If you have no time, click here to download my latest [CV](drago_cv_2021.pdf).
+
+Otherwise, feel free to check out [My Projects](projects.html) to see what I am working on, or visit my [Publications](publications.html) to see my papers and presentations.
+
+The fastest way to get in touch with me is via email at daria.rago [at] med.lu.se

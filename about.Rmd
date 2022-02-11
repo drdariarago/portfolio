@@ -2,14 +2,19 @@
 title: "Dr Daria Rago"
 image: "selfie.jpeg"
 links:
-  - label: Twitter
-    url: "https://twitter.com/ragovago"
   - label: GitHub
     url: "https://github.com/drdariarago"
   - label: Email
     url: "mailto:dariarago@med.lu.se"
+  - label: Twitter
+    url: "https://twitter.com/ragovago"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=pn93NQYAAAAJ"
+  - label: Orcid
+    url: "https://orcid.org/0000-0002-7925-4331"
+
 output:
-  postcards::jolla
+  postcards::trestles
 ---
  
 I am a bioinformatician with a passion for data analysis, evolution and education.  
