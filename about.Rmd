@@ -1,19 +1,17 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Dr Daria Rago"
+image: "selfie.jpeg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/ragovago"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/drdariarago"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:dariarago@med.lu.se"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a bioinformatician with a passion for data analysis, evolution and education.  
+My main expertise is turning diverse, complex and messy biological datasets into insights and knowledge.
+
